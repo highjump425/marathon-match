@@ -1,0 +1,1 @@
+wsl ./parrarel.sh %*
